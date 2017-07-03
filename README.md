@@ -1,3 +1,2 @@
-# BotTrial
-Bot trial
-A bot trial using the Microsoft Bot Framework.
+
+Created a Bot using the Microsoft Bot Framework. This is a Sample Project.
